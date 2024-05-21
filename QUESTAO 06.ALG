@@ -6,7 +6,7 @@ Algoritmo "Questao 06"
 Var
 // Seção de Declarações das variáveis 
  cel, fah: real
-Inicio
+giInicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
  escreva("Informe a sua temperatura em Fahrenheit:")
  leia(fah)
